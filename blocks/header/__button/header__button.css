@@ -1,0 +1,14 @@
+.header__button {
+  margin: 108px 0 0 0;
+  width: 240px;
+  height: 54px;
+  background: #FFFFFF;
+  border-radius: 8px;
+  background-image: url('../../../images/header-button-text.svg');
+  background-size: 91px 24px;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit:contain;
+  object-position: center;
+  cursor: pointer;
+}

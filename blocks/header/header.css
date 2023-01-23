@@ -1,1 +1,12 @@
-.header {}
+.header {
+  margin: 0 auto;
+  padding: 40px 220px 0 157px;
+  max-width: 1420px;
+  height: 600px;
+  background-color: #222222;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 82px;
+}
