@@ -1,2 +1,13 @@
-.page
- {}
+.page {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1440px;
+  box-sizing:border-box;
+  font-family: 'Inter', sans-serif;
+  background-color: #FFFFFF;
+  color:  #000000;
+  font-style: normal;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
